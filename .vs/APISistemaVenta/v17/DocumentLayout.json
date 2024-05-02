@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\MenuService.cs",
               "ToolTip": "E:\\Net\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\MenuService.cs",
               "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\MenuService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T20:47:43.483Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T20:47:16.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T20:47:16.249Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T20:47:13.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T20:47:13.696Z"
             }
           ]
         }
